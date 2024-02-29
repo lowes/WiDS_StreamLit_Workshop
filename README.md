@@ -1,1 +1,1 @@
-# WiDS_StreamLit_Workshop
+# Computer Vision Streamlit
